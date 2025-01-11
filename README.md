@@ -1,1 +1,1 @@
-(https://github.com/pawushka/ono-tebe-nado-fd)
+https://github.com/pawushka/ono-tebe-nado-fd
