@@ -1,2 +1,1 @@
-Добрый день!
-Проект готов, прошу ознакомиться
+(https://github.com/pawushka/ono-tebe-nado-fd)
